@@ -38,9 +38,9 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Jdk Version 1.8](https://www.oracle.com/co/java/technologies/javase/javase8-archive-downloads.html)
+* [Jdk Version 1.8](https://www.oracle.com/co/java/technologies/javase/javase8-archive-downloads.html) - jdk 
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [IntelliJ IDEA Community Edition](https://www.jetbrains.com/es-es/idea/download/#section=windows)
+* [IntelliJ IDEA Community Edition](https://www.jetbrains.com/es-es/idea/download/#section=windows) - Ide
 
 
 ## Autores ✒️
